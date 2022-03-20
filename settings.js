@@ -33,9 +33,6 @@ global.bg4 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 global.prefa = ['','!','/','#','.']
 global.sp = '⭔'
 
-//Ubah Jadi false Kalau Botmu Pakai Wa Bussines
-listmenu = true
-
 //===> EDIT SESUAI KEMAUANMU
 global.mess = {
 admin: '*LU ADMIN? 🤨*',
