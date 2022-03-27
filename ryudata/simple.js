@@ -8,7 +8,7 @@ exports.simple = (pushname, ucapanWaktu, prefix) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-Berikut List Menu Yang Tersedia Di *RyuBotz MD*
+Berikut List Menu Yang Tersedia Di *AlamBotz MD*
 
 ⚘👾 ${prefix}allmenu
 ⚘👾 ${prefix}ownermenu
@@ -41,7 +41,7 @@ exports.list = (pushname, ucapanWaktu) => {
 	return`*Halo Kak ${pushname} 👋*
 *${ucapanWaktu}*
 
-*Berikut List Menu Yang Tersedia Di RyuBotz MD*
+*Berikut List Menu Yang Tersedia Di AlamBotz MD*
 
 *Jika Menemukan Bug Harap Dimaklumi Dan Laporkan Kepada*
 *Owner Atau Creator Agar Segera Di Fix 😎*
@@ -455,7 +455,7 @@ Tak Ada Yang Spesial Di Dunia Ini Kecuali Martabak Spesial
 //MENU AWAL
 exports.smenu = (pushname) => {
 	return`Halo Kak *${pushname}* 👋
-Saya Adalah *Ryubotz MD* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
+Saya Adalah *AlamBotz MD* Yang Direcode Oleh Ryuuka Team Menggunakan Base Dari Dika Ardnt (Hisoka-Morou)
 
 Perlu Diketahui Bot Ini Memakai Program Multi Device Beta Dari WhatsApp Messenger.
 
